@@ -13,4 +13,3 @@ use Illuminate\Http\Request;
 |
 */
 
-Route::get('/send-mail', 'Mailcontroller@handle');
